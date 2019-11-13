@@ -419,7 +419,7 @@ http://load.kudaplay.tv/aovivo/HD_GLOBO_RJ/video.m3u8?token=6dceb254c49fec2fd032
 #EXTINF:-1 type="stream" tvg-id="Globo SP" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP
 https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEyOjExOjA1IEFNJmhhc2hfdmFsdWU9VVUwMHJGM1h3TWV2MElzUGRVYVhVdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP HD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_c4aaac64128f7da460283d13caecf50f9621d4eb/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_2cc92cbc78b8760e9a1f1dab08a58c3552cd4e2a.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo SP HD [Alter]" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP HD [Alter]
 http://load.kudaplay.tv/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
 #EXTINF:-1 type="stream" tvg-id="Globo TV Anhanguera Goiania" tvg-logo="https://i.ibb.co/vdfycw7/tvanhanguera.png" group-title="TV Aberta",Globo TV Anhanguera Goiania
